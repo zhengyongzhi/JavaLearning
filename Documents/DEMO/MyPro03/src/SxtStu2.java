@@ -5,9 +5,7 @@
  */
 
 
-class Computer{
-	String brand;
-}
+
 
 public class SxtStu2 {
 	
@@ -45,6 +43,8 @@ public class SxtStu2 {
 	
 }
 
-
+class Computer{
+	String brand;
+}
 
 
