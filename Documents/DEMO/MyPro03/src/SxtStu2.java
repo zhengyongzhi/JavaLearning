@@ -43,8 +43,6 @@ public class SxtStu2 {
 	
 }
 
-class Computer{
-	String brand;
-}
+
 
 
