@@ -16,7 +16,7 @@ public class TestSwitch {
 			System.out.println("开春");
 			break;
 		default:
-			System.out.println("###########");
+			System.out.println("#########");
 			break;
 		}
 	}
